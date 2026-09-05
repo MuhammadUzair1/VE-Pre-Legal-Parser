@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "source": "Common Paper GitHub Organization",
+    "fetched_date": "2025-09-05",
+    "total_templates": 12,
+    "license": "CC BY 4.0",
+    "organization_url": "https://github.com/commonpaper"
+  },
+  "templates": [
+    {
+      "id": "dpa",
+      "name": "Data Processing Agreement",
+      "filename": "DPA.md",
+      "repository": "https://github.com/commonpaper/DPA",
+      "version": "1.0",
+      "description": "A standardized data processing agreement developed collaboratively by over 40 legal professionals from technology vendors, procurement teams, and law firms. Covers data processor relationships, processing instructions, international data transfers, security incident response, audit rights, and data deletion.",
+      "key_sections": [
+        "Processor and Subprocessor Relationships",
+        "Processing Instructions",
+        "Restricted Transfers (GDPR, UK GDPR, Swiss)",
+        "Security Incident Response",
+        "Audit & Reports",
+        "Individual Requests",
+        "Data Deletion",
+        "Limitation of Liability"
+      ],
+      "use_cases": [
+        "Data handling agreements",
+        "GDPR compliance",
+        "UK GDPR compliance",
+        "Cross-border data transfers"
+      ],
+      "stars": 8,
+      "forks": 2
+    },
+    {
+      "id": "mnda",
+      "name": "Mutual Non-Disclosure Agreement",
+      "filename": "Mutual-NDA.md",
+      "repository": "https://github.com/commonpaper/Mutual-NDA",
+      "version": "1.0",
+      "description": "A mutual confidentiality agreement allowing both parties to share sensitive business and technical information. Includes standard terms for confidential information protection, permitted disclosures, term duration, and return/destruction of information.",
+      "related_files": [
+        "Mutual-NDA-coverpage.md"
+      ],
+      "key_sections": [
+        "Confidential Information Definition",
+        "Use and Protection",
+        "Exceptions to Confidentiality",
+        "Required Disclosures",
+        "Term and Survival",
+        "Return or Destruction",
+        "Intellectual Property",
+        "Governing Law"
+      ],
+      "use_cases": [
+        "Initial business discussions",
+        "Vendor evaluations",
+        "Partnership negotiations",
+        "Technology sharing"
+      ]
+    },
+    {
+      "id": "psa",
+      "name": "Professional Services Agreement",
+      "filename": "psa.md",
+      "repository": "https://github.com/commonpaper/PSA",
+      "version": "1.0",
+      "description": "Standard terms for professional services agreements with customizable statements of work. Covers service delivery, intellectual property assignments, payment terms, warranties, liability limitations, and indemnification.",
+      "key_sections": [
+        "Services and SOWs",
+        "Cooperation and Change Orders",
+        "Intellectual Property",
+        "Personal Data and Security",
+        "Payment & Taxes",
+        "Term & Termination",
+        "Representations & Warranties",
+        "Indemnification",
+        "Confidentiality"
+      ],
+      "use_cases": [
+        "Consulting services",
+        "Custom development",
+        "Implementation services",
+        "Professional engagements"
+      ],
+      "stars": 14,
+      "forks": 4
+    },
+    {
+      "id": "csa",
+      "name": "Cloud Service Agreement",
+      "filename": "CSA.md",
+      "repository": "https://github.com/commonpaper/CSA",
+      "version": "2.1",
+      "description": "Comprehensive framework for cloud service agreements including access controls, support provisions, payment terms, data protection, and service warranties. Designed for SaaS and cloud platform providers.",
+      "key_sections": [
+        "Service Access and Use",
+        "Technical Support",
+        "Restrictions & Obligations",
+        "Privacy & Security",
+        "Payment & Taxes",
+        "Term & Termination",
+        "Representations & Warranties",
+        "Limitation of Liability",
+        "Indemnification",
+        "Export Controls"
+      ],
+      "use_cases": [
+        "SaaS platform agreements",
+        "Cloud infrastructure services",
+        "Platform as a Service (PaaS)",
+        "Managed cloud services"
+      ]
+    },
+    {
+      "id": "baa",
+      "name": "Business Associate Agreement",
+      "filename": "BAA.md",
+      "repository": "https://github.com/commonpaper/BAA",
+      "version": "1.0",
+      "description": "HIPAA-compliant business associate agreement for healthcare data handling. Defines obligations for protecting protected health information (PHI), security requirements, breach notification, and compliance procedures.",
+      "key_sections": [
+        "Business Associate Obligations",
+        "Privacy and Security Program",
+        "Safeguards and Assessments",
+        "Subcontractors",
+        "Breach Notification",
+        "Term & Termination",
+        "HIPAA Compliance"
+      ],
+      "use_cases": [
+        "Healthcare services",
+        "Medical data processing",
+        "HIPAA compliance",
+        "PHI handling"
+      ],
+      "stars": 4,
+      "forks": 1
+    },
+    {
+      "id": "sla",
+      "name": "Service Level Agreement",
+      "filename": "sla.md",
+      "repository": "https://github.com/commonpaper/SLA",
+      "version": "1.0",
+      "description": "Standard service level agreement for cloud services defining uptime commitments, response times, service credits, and remedies for performance failures. Companion to Cloud Service Agreement.",
+      "key_sections": [
+        "Uptime Commitments",
+        "Response Time Requirements",
+        "Service Credits",
+        "Termination Rights",
+        "Definitions"
+      ],
+      "use_cases": [
+        "Cloud service commitments",
+        "Uptime guarantees",
+        "Support level definitions",
+        "Performance guarantees"
+      ]
+    },
+    {
+      "id": "sla_companion",
+      "name": "Software License Agreement",
+      "filename": "Software-License-Agreement.md",
+      "repository": "https://github.com/commonpaper/Software-License-Agreement",
+      "version": "1.1",
+      "description": "Standardized software licensing agreement covering license grants, usage restrictions, payment terms, warranty disclaimers, and liability limitations. Includes provisions for updates, machine learning, and open source software.",
+      "key_sections": [
+        "Software License",
+        "User Accounts",
+        "Feedback and Usage Data",
+        "Machine Learning",
+        "Open Source Software",
+        "Updates",
+        "Restrictions & Obligations",
+        "Payment & Taxes",
+        "Term & Termination",
+        "Limitation of Liability"
+      ],
+      "use_cases": [
+        "Commercial software licensing",
+        "SaaS subscriptions",
+        "Software distribution",
+        "ML-enabled applications"
+      ]
+    },
+    {
+      "id": "partnership",
+      "name": "Partnership Agreement",
+      "filename": "Partnership-Agreement.md",
+      "repository": "https://github.com/commonpaper/Partnership-Agreement",
+      "version": "1.0",
+      "description": "Framework for partnership agreements between organizations. Covers cooperation obligations, payment terms, trademark licensing, dispute resolution, and termination provisions.",
+      "key_sections": [
+        "Cooperation Obligations",
+        "Payment & Taxes",
+        "Trademark License",
+        "Privacy and Data",
+        "Escalation Procedure",
+        "Term & Termination",
+        "Representations & Warranties",
+        "Limitation of Liability",
+        "Indemnification",
+        "Confidentiality"
+      ],
+      "use_cases": [
+        "Strategic partnerships",
+        "Reseller agreements",
+        "Channel partnerships",
+        "Joint ventures"
+      ],
+      "stars": 6,
+      "forks": 1
+    },
+    {
+      "id": "ai_addendum",
+      "name": "AI Addendum",
+      "filename": "AI-Addendum.md",
+      "repository": "https://github.com/commonpaper/AI-Addendum",
+      "version": "1.0",
+      "description": "Supplementary terms for AI/ML services integrated into products. Covers AI service usage restrictions, training data handling, output ownership, intellectual property rights, and AI-specific disclaimers.",
+      "key_sections": [
+        "AI Services Usage",
+        "Model Training Controls",
+        "Improvement Restrictions",
+        "Intellectual Property Ownership",
+        "Personal Data in AI",
+        "AI Disclaimers",
+        "Output Similarity Risks"
+      ],
+      "use_cases": [
+        "AI-powered SaaS platforms",
+        "Machine learning services",
+        "Generative AI applications",
+        "AI model usage"
+      ]
+    },
+    {
+      "id": "pilot",
+      "name": "Pilot Agreement",
+      "filename": "Pilot-Agreement.md",
+      "repository": "https://github.com/commonpaper/Pilot-Agreement",
+      "version": "1.1",
+      "description": "Short-term evaluation agreement for product testing before full commercial commitment. Includes access rights, usage restrictions, feedback provisions, confidentiality, and transition to definitive agreements.",
+      "key_sections": [
+        "Pilot Access and Use",
+        "License Grant",
+        "User Accounts",
+        "Restrictions",
+        "Term & Termination",
+        "Representations",
+        "Disclaimer of Warranties",
+        "Limitation of Liability",
+        "Confidentiality"
+      ],
+      "use_cases": [
+        "Product evaluations",
+        "Trial periods",
+        "Proof of concept agreements",
+        "Early access programs"
+      ]
+    },
+    {
+      "id": "design_partner",
+      "name": "Design Partner Agreement",
+      "filename": "design-partner-agreement.md",
+      "repository": "https://github.com/commonpaper/Design-Partner-Agreement",
+      "version": "1.0",
+      "description": "Framework for design partner programs providing early product access in exchange for feedback. Covers product access, feedback ownership, confidentiality, and intellectual property rights.",
+      "key_sections": [
+        "Product Access",
+        "Feedback and Program",
+        "Fees and Costs",
+        "Term & Termination",
+        "Disclaimer of Warranties",
+        "Confidentiality",
+        "Intellectual Property",
+        "General Terms"
+      ],
+      "use_cases": [
+        "Design partner programs",
+        "Customer advisory boards",
+        "Early access programs",
+        "Product feedback initiatives"
+      ],
+      "stars": 23,
+      "forks": 1
+    },
+    {
+      "id": "master_service_agreement",
+      "name": "Master Service Agreement",
+      "note": "Part of Common Paper's collection, referenced in organization",
+      "repository": "https://github.com/commonpaper",
+      "description": "Note: Referenced in Common Paper's repository list as part of their standard templates collection. Please check their organization page for the specific MSA repository.",
+      "use_cases": [
+        "Long-term service relationships",
+        "Framework for multiple services"
+      ]
+    }
+  ],
+  "cover_pages": [
+    {
+      "id": "mnda_coverpage",
+      "name": "Mutual NDA Cover Page",
+      "filename": "Mutual-NDA-coverpage.md",
+      "repository": "https://github.com/commonpaper/Mutual-NDA",
+      "description": "Cover page template for Mutual NDA including signature blocks, effective date, confidentiality term, governing law, and jurisdiction fields."
+    }
+  ],
+  "usage_patterns": {
+    "implementation_model": "Two-part execution with Cover Page + Standard Terms by reference",
+    "cover_page_purpose": "Customizable business terms that incorporate standard legal provisions by reference",
+    "versioning_strategy": "Version 1 remains permanently unchanged; future versions created for legal/use-case updates only",
+    "licensing": "All agreements under CC BY 4.0 - free to use and modify",
+    "governance": "Created by committees of 40+ attorneys from vendors, procurement teams, boutique firms, and Big Law"
+  },
+  "download_urls": {
+    "base_raw_url": "https://raw.githubusercontent.com/commonpaper",
+    "branch": "main",
+    "template_structure": "/{repository}/main/{filename}"
+  },
+  "common_sections_across_templates": [
+    "Entire Agreement",
+    "Modifications, Severability, and Waiver",
+    "Governing Law and Jurisdiction",
+    "Injunctive Relief",
+    "Assignment Restrictions",
+    "Notices",
+    "Independent Contractors",
+    "No Third-Party Beneficiary",
+    "Force Majeure",
+    "Anti-Bribery",
+    "Definitions",
+    "Confidentiality",
+    "Term & Termination"
+  ]
+}
